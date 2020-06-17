@@ -9,3 +9,7 @@
   Text Domain: themename
   Tags: responsive, translation-ready
 */
+
+.screen-reader-text {
+  display: none;
+}
